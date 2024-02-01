@@ -6,3 +6,4 @@
 2) Change the station and rotation times(in seconds)
 3) Click on the timer link and make that match
 4) Run the program
+5) SHARE THIS LINK WITH PEOPLE https://chronograph.io/btzrpMg6
